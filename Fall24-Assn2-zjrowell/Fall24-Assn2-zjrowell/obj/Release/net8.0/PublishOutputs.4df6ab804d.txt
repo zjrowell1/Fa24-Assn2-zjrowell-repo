@@ -1,0 +1,7 @@
+/Users/zachareyrowell/Documents/CS330/Assn2/Fa24-Assn2-zjrowell-repo/Fall24-Assn2-zjrowell/Fall24-Assn2-zjrowell/obj/Release/net8.0/PubTmp/Out/Fall24-Assn2-zjrowell
+/Users/zachareyrowell/Documents/CS330/Assn2/Fa24-Assn2-zjrowell-repo/Fall24-Assn2-zjrowell/Fall24-Assn2-zjrowell/obj/Release/net8.0/PubTmp/Out/appsettings.Development.json
+/Users/zachareyrowell/Documents/CS330/Assn2/Fa24-Assn2-zjrowell-repo/Fall24-Assn2-zjrowell/Fall24-Assn2-zjrowell/obj/Release/net8.0/PubTmp/Out/appsettings.json
+/Users/zachareyrowell/Documents/CS330/Assn2/Fa24-Assn2-zjrowell-repo/Fall24-Assn2-zjrowell/Fall24-Assn2-zjrowell/obj/Release/net8.0/PubTmp/Out/Fall24-Assn2-zjrowell.dll
+/Users/zachareyrowell/Documents/CS330/Assn2/Fa24-Assn2-zjrowell-repo/Fall24-Assn2-zjrowell/Fall24-Assn2-zjrowell/obj/Release/net8.0/PubTmp/Out/Fall24-Assn2-zjrowell.deps.json
+/Users/zachareyrowell/Documents/CS330/Assn2/Fa24-Assn2-zjrowell-repo/Fall24-Assn2-zjrowell/Fall24-Assn2-zjrowell/obj/Release/net8.0/PubTmp/Out/Fall24-Assn2-zjrowell.runtimeconfig.json
+/Users/zachareyrowell/Documents/CS330/Assn2/Fa24-Assn2-zjrowell-repo/Fall24-Assn2-zjrowell/Fall24-Assn2-zjrowell/obj/Release/net8.0/PubTmp/Out/Fall24-Assn2-zjrowell.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fall24-Assn2-zjrowell/1.0.0": {
+        "runtime": {
+          "Fall24-Assn2-zjrowell.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fall24-Assn2-zjrowell/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,46 @@
+body {
+    background-image: url('/images/backgroundimg1.jpg');
+    background-size: cover;
+    background-position: center; /* Center the background image */
+    background-attachment: fixed; /* Ensures the background doesn't scroll with the page */
+    background-repeat: no-repeat; /* Avoid repeating the image */
+    font-family: Arial, sans-serif;
+    height: 100vh; /* Ensure the background covers the entire viewport height */
+    margin: 0; /* Remove default body margin */
+}
+
+header {
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: crimson;
+}
+
+main {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#searchResults a {
+    color: red; /* Change the text color to orange */
+    font-weight: bold; /* Make the text bold */
+}
+
+/* Change the style when the user hovers over the links */
+#searchResults a:hover {
+    text-decoration: underline; /* Add an underline on hover */
+    color: #ff6347; /* Change the color to tomato on hover */
+}
+
+#searchResults {
+    visibility: hidden;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px; /* Increase button text size */
+    cursor: pointer; /* Make the button cursor pointer */
+}
